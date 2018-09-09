@@ -56,14 +56,29 @@ Em breve enviarei um email com alguns desses pacotes. Assim como tudo no R podem
 
 Como a zuera não tem limite, é melhor não contarmos com a internet e já termos em mãos os pacotes que iremos usar. Para isso vou deixá-los aqui no meu google drive e a medida que for inserindo material aqui vou avisando a vocês para baixarem os arquivos.
 
-https://drive.google.com/open?id=1Nc0zkjuAWQ9jKMrHmZRF14Imn6ARLAtu
-
+[Link de acesso ao meu GoogleDrive](https://drive.google.com/open?id=1Nc0zkjuAWQ9jKMrHmZRF14Imn6ARLAtu)
 
 
 
 
 
 ## Algumas leituras sugeridas:
+Se você já estiver muito ansioso que não vai aguentar esperar a nosso encontro, então segue algumas leituras sobre o R. 
+
+
+[Provete e Melo 2012.](https://www.researchgate.net/publication/237195976_O_programa_R_e_suas_aplicacoes_em_Herpetologia)O programa R e suas aplicações em Herpetologia
+[Provete et al 2011.](https://www.researchgate.net/publication/237195976_O_programa_R_e_suas_aplicacoes_em_Herpetologia)Estatística aplicada à ecologia usando o R
+
+
+
+
+
+[Inscrições SIMBIZOO](https://faesa.vpeventos.com/evento-27-II%20Simp%C3%B3sio%20de%20Biodiversidade%20Zool%C3%B3gica?utm_source=site&utm_medium=site&utm_campaign=inscricaosimbizoo#/)
+
+
+
+![#FOLDER](https://www.faesa.br/wp-content/uploads/2018/09/0001-724x1024.jpg)
+
 
 
 
